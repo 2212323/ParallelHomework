@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1711374607 source:d:\南开大学\学习\大二下\并行\codeblock\累加平凡算法\main.cpp
+	<iostream>
+	<windows.h>
+
+1711378291 source:d:\南开大学\学习\大二下\并行\parallelhomework\parallelhomework\实验一\累加平凡算法\main.cpp
+	<iostream>
+	<windows.h>
+

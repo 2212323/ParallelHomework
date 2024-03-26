@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711206353 source:d:\南开大学\学习\大二下\并行\codeblock\内积平凡算法\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+
